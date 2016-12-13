@@ -1,0 +1,7 @@
+C:\C# Projects\Sigma_Seven_Test\Sigma_Seven_Test\bin\Debug\Sigma_Seven_Test.exe.config
+C:\C# Projects\Sigma_Seven\Sigma_Seven_Test\bin\Debug\Sigma_Seven_Test.exe.config
+C:\C# Projects\Sigma_Seven\Sigma_Seven_Test\bin\Debug\Sigma_Seven_Test.exe
+C:\C# Projects\Sigma_Seven\Sigma_Seven_Test\bin\Debug\Sigma_Seven_Test.pdb
+C:\C# Projects\Sigma_Seven\Sigma_Seven_Test\obj\Debug\Sigma_Seven_Test.csprojResolveAssemblyReference.cache
+C:\C# Projects\Sigma_Seven\Sigma_Seven_Test\obj\Debug\Sigma_Seven_Test.exe
+C:\C# Projects\Sigma_Seven\Sigma_Seven_Test\obj\Debug\Sigma_Seven_Test.pdb
